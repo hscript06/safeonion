@@ -8,8 +8,6 @@ SafeOnion es un script en Python para acceder a la deep web de manera **ultra se
 ### 🔧 Requisitos  
 - Linux (cualquier distribución)  
 - Python 3 instalado  
-- Tor instalado (`sudo apt install tor` en Debian/Ubuntu)  
-- Privoxy instalado (`sudo apt install privoxy` en Debian/Ubuntu)  
 - Tor Browser descargado desde: [https://www.torproject.org/es/download/](https://www.torproject.org/es/download/)  
 
 ### 📥 Instalación  
@@ -37,8 +35,6 @@ SafeOnion is a Python script to access the deep web in an **ultra-secure** way, 
 ### 🔧 Requirements  
 - Linux (any distribution)  
 - Python 3 installed  
-- Tor installed (`sudo apt install tor` on Debian/Ubuntu)  
-- Privoxy installed (`sudo apt install privoxy` on Debian/Ubuntu)  
 - Tor Browser downloaded from: [https://www.torproject.org/download/](https://www.torproject.org/download/)  
 
 ### 📥 Installation  
