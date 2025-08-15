@@ -22,7 +22,7 @@ chmod +x safeonion.py
 python3 safeonion.py
 ```
 
-**⚠ Importante:** tienes que instalar tor browser como requisito y meter la carpeta de tor browser descomprimida dentro de la carpeta de safeonion junto al script
+###**⚠ Importante:** tienes que instalar tor browser como requisito y meter la carpeta de tor browser descomprimida dentro de la carpeta de safeonion junto al script
 
 ---
 
