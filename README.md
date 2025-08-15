@@ -22,7 +22,8 @@ chmod +x safeonion.py
 python3 safeonion.py
 ```
 
-###**⚠ Importante:** tienes que instalar tor browser como requisito y meter la carpeta de tor browser descomprimida dentro de la carpeta de safeonion junto al script
+### ⚠️Importante
+tienes que instalar tor browser como requisito y meter la carpeta de tor browser descomprimida dentro de la carpeta de safeonion junto al script
 
 ---
 
@@ -48,4 +49,5 @@ chmod +x safeonion.py
 python3 safeonion.py
 ```
 
-**⚠ Important:** You must install Tor Browser as a requirement and place the unzipped Tor Browser folder inside the SafeOnion folder alongside the script.
+### ⚠️Important
+You must install Tor Browser as a requirement and place the unzipped Tor Browser folder inside the SafeOnion folder alongside the script.
