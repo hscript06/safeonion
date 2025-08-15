@@ -22,8 +22,7 @@ chmod +x safeonion.py
 python3 safeonion.py
 ```
 
-**⚠ Nota:**  
-Si no tienes Tor Browser, se te pedirá la ruta al ejecutable al iniciar el script. Puedes descargarlo desde: [https://www.torproject.org/es/download/](https://www.torproject.org/es/download/)
+**⚠ Importante:** tienes que instalar tor browser como requisito y meter la carpeta de tor browser descomprimida dentro de la carpeta de safeonion junto al script
 
 ---
 
@@ -49,5 +48,4 @@ chmod +x safeonion.py
 python3 safeonion.py
 ```
 
-**⚠ Note:**  
-If you don’t have Tor Browser, the script will ask for the executable path when starting. You can download it from: [https://www.torproject.org/download/](https://www.torproject.org/download/)
+**⚠ Important:** You must install Tor Browser as a requirement and place the unzipped Tor Browser folder inside the SafeOnion folder alongside the script.
